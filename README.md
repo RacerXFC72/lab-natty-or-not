@@ -19,24 +19,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+"O Guia Completo para Comprar Sua Primeira Motocicleta"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um livro que ensine os leitores a comprarem a sua primeira motocicleta. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para gerar texto e imagens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o texto da descrição como prompt no ChatGPT, que criou um texto alicerce.
+Posteriormente, fui criando as imagens editando tudo no Word e salvei em pdf.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+****Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Os maiores desafios de criar algo 'natty' com IA foram soltar a imaginação e colocar a mão na massa realmente.
+
 
 ### Exemplos e Insigths
 
