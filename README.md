@@ -33,11 +33,12 @@ Utilizei o texto da descrição como prompt no ChatGPT, que criou um texto alice
 Posteriormente, fui criando as imagens editando tudo no Word e salvei em pdf.
 
 ## 🚀 Resultados
-****Apresente os resultados do seu projeto
+O e-book está salvo neste repositório. 
+Trata-se de um e-book contendo um total de 12 páginas.
 
 ## 💭 Reflexão (Opcional)
 Os maiores desafios de criar algo 'natty' com IA foram soltar a imaginação e colocar a mão na massa realmente.
-
+Fica a sensação de que a autoria não é minha, tanto que não coloquei um nome de autor.
 
 ### Exemplos e Insigths
 
